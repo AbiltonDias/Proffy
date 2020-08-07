@@ -1,4 +1,4 @@
-#page-teacher-list{
+#page-teacher-list {
     width: 100vw;
     height: 100vh;
 }
@@ -6,7 +6,7 @@
 .page-header{
     display: flex;
     flex-direction: column;
-    background-color: var(--color-primary);
+    background-color: #000;
 }
 
 .page-header .top-bar-container{
